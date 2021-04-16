@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: helvetica;
+}
+
+.container {
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
